@@ -49,7 +49,7 @@ Through this project, I applied ISO/IEC 27001 controls to assess real-world risk
 ---
 
 ## 📂 Project Files
-- **[View Full Risk Management Plan (PDF)](./DHAEI_ISO27001_Risk_Management_Plan.pdf)**  
+- **[View Full Risk Management Plan (PDF)](docs/DHA_Enterprise_Inc_ISO_27001_Compliant_Risk_Management_Plan.pdf)**  
 - **[View Statement of Applicability (SOA)](./SOA_DHAEI.xlsx)**  
 
 ---
