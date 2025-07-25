@@ -45,7 +45,7 @@ I followed the **ISO/IEC 27001 Risk Management Framework** with these steps:
 
 
 
-## 📂 Project Files
+##  Project Files
 - **[View Full Risk Management Plan (PDF)](docs/DHA_Enterprise_Inc_ISO_27001_Compliant_Risk_Management_Plan.pdf)**  
 - **[View Statement of Applicability (SOA)](docs/Statement_of_Applicability_(SOA)_for_DHA_Enterprise_Inc_(DHAEI)_Sheet2.pdf)**  
 
@@ -58,7 +58,7 @@ I followed the **ISO/IEC 27001 Risk Management Framework** with these steps:
 - [Microsoft Windows Server Security](https://learn.microsoft.com/en-us/windows-server/security/)
 
 
-## 👤 Author
+##  Author
 **Ifeanyi Christian Edeh**  
 Cybersecurity Specialist  
 [LinkedIn Profile](https://www.linkedin.com/in/ifeanyiedeh)
