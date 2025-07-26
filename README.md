@@ -54,8 +54,8 @@ I followed the **ISO/IEC 27001 Risk Management Framework** with these steps:
 - [ISO/IEC 27001:2022 Standard](https://www.iso.org/standard/27001)
 - [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 - [AWS Security Best Practices](https://aws.amazon.com/security/)
-- [Rackspace Security Guidelines](https://docs.rackspace.com/security/)
-- [Microsoft Windows Server Security](https://learn.microsoft.com/en-us/windows-server/security/)
+- [Rackspace Security Guidelines](https://docs.rackspace.com/)
+- [Microsoft Windows Server Security](https://learn.microsoft.com/en-us/windows-server/)
 
 
 ##  Author
